@@ -108,8 +108,9 @@ A empresa que mais favorecida será o "MERCADOPAGO.COM REPRESENTACOES LTDA", já
 
 
 P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
-RESPOSTA===> 
+
 Para conseguir a resposta da questão "K", utilizei o comando “sum” para somar todas as linhas da coluna de “Valor de Transação”, resultando na soma de todos os movimentos do mês de outubro.
+
 Na questão "O" fiz em duas partes, a primeira fiz um “select” na coluna “Nome Favorecido” e também realizei o comando “sum” na coluna “Valor de Transação''. Por fim utilizei “group by” para agrupar as instruções do “select”
 
 
